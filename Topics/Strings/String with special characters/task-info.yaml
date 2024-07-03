@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: <code>text := "Hyperskill\n\t"</code>
+  - text: <code>text := """Hyperskill\n\t"""</code>
+  - text: <code>text := 'Hyperskill\n\t'</code>
+  - text: <code>text :=  `Hyperskill\n\t`</code>
+files:
+  - name: main.go
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/26972#comment
+status: Solved
+record: -1
+selected_options:
+  - 3
+local_check: false

@@ -1,0 +1,8 @@
+content:
+  - Theory
+  - The hexadecimal value of an int number
+  - Boolean formatting
+  - Float precision length
+  - Formatting string type and character type
+  - The difference between fmt.Printf and fmt.Print
+  - Format specifier of numeric types

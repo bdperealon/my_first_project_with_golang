@@ -1,0 +1,12 @@
+type: code
+files:
+  - name: main.go
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23450#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 20 Jun 2024 21:48:54 UTC"
+record: -1
+submission_language: go

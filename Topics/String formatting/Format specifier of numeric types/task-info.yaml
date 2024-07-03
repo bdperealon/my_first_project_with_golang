@@ -1,0 +1,26 @@
+type: matching
+captions:
+  - <code>%d</code>
+  - <code>%b</code>
+  - <code>%f</code>
+  - <code>%.2f</code>
+options:
+  - formats in the decimal (base 10) form of the integer number
+  - formats in the binary (base 2) form of the integer number
+  - formats a numeric value in the floating form (default precision)
+  - formats a number value in the floating form with the precision length 2
+files:
+  - name: main.go
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16861#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 03 Jul 2024 23:31:39 UTC"
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
